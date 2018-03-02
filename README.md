@@ -1,4 +1,3 @@
-# cv
 
 # My Curriculum Vitae
 
